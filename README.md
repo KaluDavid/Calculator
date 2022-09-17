@@ -7,7 +7,7 @@ A mathematical ui calculator built with HTML, CSS, and JavaScript
 - JavaScript
 
 ### Live Demo Link
-> Live Link [https://kaludavid.github.io/Techrity-Project-2-ui-Calculator-/]
+> [Live Link] (https://kaludavid.github.io/Techrity-Project-2-ui-Calculator-/)
 
 #### Features
 - Addition
